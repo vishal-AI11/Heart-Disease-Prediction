@@ -5,6 +5,7 @@ This project predicts whether a patient is likely to have heart disease based on
 
 The project follows a complete machine learning pipeline, including:
 
+
 Data Collection and Merging
 Data Cleaning
 Exploratory Data Analysis (EDA)
